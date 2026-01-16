@@ -59,3 +59,10 @@
 //     }
 //     num++
 // }
+
+
+let num = 1;
+while(num <=61){
+    console.log('this day 16', num)
+    num++
+}
