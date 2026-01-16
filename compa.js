@@ -81,7 +81,7 @@
 
 
 
-const age = 34;
+// const age = 34;
 
 // if( age >= 18 ){
 
@@ -91,4 +91,8 @@ const age = 34;
 //     console.log('mara dio')
 // }
 
-age >= 18 ? console.log('vote dio') : console.log('mara')
+// age >= 18 ? console.log('vote dio') : console.log('mara')
+
+
+
+

@@ -1,16 +1,29 @@
 
-const numbers = [12,33,44,456,67,7788,88,8,88,5,4,4,6,  ];
-console.log(numbers);
+// const numbers = [12,33,44,456,67,7788,88,8,88,5,4,4,6,  ];
+// console.log(numbers);
 
-// for(const num of numbers){
-//     console.log(num)
-// }
+// // for(const num of numbers){
+// //     console.log(num)
+// // }
 
-const fruits = ['Apple', 'Banana', 'Orange', 'Mango', 'Grapes', ]
+// const fruits = ['Apple', 'Banana', 'Orange', 'Mango', 'Grapes', ]
 
-// console.log(fruits)
+// // console.log(fruits)
 
-for(const fruit of fruits){
-    console.log(fruit)
-    console.log(' want to eat')
+// for(const fruit of fruits){
+//     console.log(fruit)
+//     console.log(' want to eat')
+// 
+
+
+
+
+
+
+
+let num = 1;
+while (num <= 10){
+
+    console.log(num);
+    num++;
 }
