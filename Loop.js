@@ -61,8 +61,27 @@
 // }
 
 
-let num = 1;
-while(num <=61){
-    console.log('this day 16', num)
-    num++
-}
+// let num = 1;
+// while(num <=61){
+//     console.log('this day 16', num)
+//     num++
+// }
+
+
+
+
+// for loop sum
+
+
+
+// let num = 0;
+
+// for(let i = 1; i <=10; i++){
+//     console.log(i);
+// }
+
+
+// let mum = 0;
+// for (let i = 10; i >0; i--){
+//     console.log(i);
+// } 
