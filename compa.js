@@ -96,3 +96,18 @@
 
 
 
+const age = 50;
+
+if( age >= 18 ){
+
+    console.log('vote do');
+}
+else {
+    console.log('mara dio')
+}
+
+age >= 18 ? console.log('vote dio') : console.log('mara')
+
+
+
+
