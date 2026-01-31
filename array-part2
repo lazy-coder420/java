@@ -1,0 +1,78 @@
+// const number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+// const names = ['Alice', 'Bob', 'Charlie', 'David', 'Eve'];
+// console.log(numbers);
+// numbers.reverse()
+// console.log(numbers);
+
+
+
+// // console.log(names);
+// names.reverse(); 
+// console.log(names);
+
+// const number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+// const jjk =[];
+
+// for(const ohooho of number){
+//     console.log(ohooho);
+//     // jjk.push(ohooho);
+//     jjk.unshift(ohooho);    
+    
+// }
+
+// console.log(jjk);
+
+
+// const number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+// const reversedNumber = [];
+// for(let i=0; i < number.length; i++){
+//     const num = number[i];
+//     reversedNumber.unshift(num);
+
+
+// }
+
+
+// console.log(reversedNumber);
+
+
+
+// const number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+// const hoho_num = [];
+
+// for( let i = number.length -1; i >=0; i-- ){
+//     const num = number[i];
+//     hoho_num.push(num);
+// }
+
+// console.log(hoho_num);
+
+
+
+// ************
+
+
+// function square(num){
+//     console.log(num);
+//     const result = num * num;
+//     console.log(result); 
+// }
+
+// square(5);
+
+
+
+
+//parameters 
+
+
+
+function mmm(a: number, b: number, c: number, d: number, e: number){
+    const sum = a + b - c + d * e;
+    console.log(sum);
+
+}
+
+mmm(3, 4, 5, 555, 55,);

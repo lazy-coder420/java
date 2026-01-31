@@ -96,8 +96,23 @@
 
 
 
-let sum = 0; 
-for( let i = 0; i <= 20; i = i + 2){
-    console.log(i);
-}
+// let sum = 0; 
+// for( let i = 0; i <= 20; i = i + 2){
+//     console.log(i);
+// }
+
+// let sum = 0; 
+// for( let i = 0; i <= 20; i = i + 2){
+//     console.log(i);
+// }
+
+// let sum = 0; 
+// for( let i = 0; i <= 20; i = i + 2){
+//     console.log(i);
+// }
+
+// let sum = 0; 
+// for( let i = 0; i <= 20; i = i + 2){
+//     console.log(i);
+// }
 
